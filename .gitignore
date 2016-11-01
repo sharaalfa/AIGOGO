@@ -1,0 +1,12 @@
+aigogo/.idea/
+aigogo/build/
+aigogo/classes/*
+aigogo/.gradle/
+aigogo/out/
+aigogo/lib/
+*.jar
+*.war
+*.ear
+*.class
+*.idea
+*.iml
